@@ -1,0 +1,85 @@
+     Описание githab
+
+https://github.com/login?ysclid=luuqdh95x2352645984  -- сайт для входа в githab
+
+mikekondaurov2008@gmail.com  -- логин для входа в githab
+ 
+mikekondaurov2008!      --  пароль
+
+Содаем новый репозитарий для MikeVK1964  
+
+traustrup_tur_po_C-
+
+
+   https://github.com/MikeVK1964/parser_with_variable1
+
+________________________________________________________________________________________
+
+git clone https://github.com/MikeVK1964/mk_array.git   --- показано в зеленой кнопке
+
+__________________________________________________________________________________________
+
+ Создаем репозитарий на github из командной строки   or create a new repository on the command line
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MikeVK2806/test_repo.git
+git remote add origin https://github.com/MikeVK1964/test_repo.git
+
+Не работает
+git push -u origin main 
+выдает ошибку 403
+c:\Users\Константин\  --- лежит файл .gitconfig
+Помогло переключение на account MikeVK1964
+На странице github.com 
+
+_____________________________________________________________________________________________
+for windows 
+Учетные записи githab
+Адрес почты mikekondaurov2017@gmail.com
+Пароль Mikekondaurov2017
+Username  MikeVK2806
+______________________________________________________________________________________________
+
+Переключаемся на MikeVK2806
+
+1.Работаем с git gui
+
+2. Удаляем все папки 
+
+ Setting
+
+  Опускаемся вниз
+
+ Пароль для удаления Mikekondaurov2017
+
+3. Создаем новый репозитарий
+
+4. Клонируем 
+
+5. The requested URL returned error: 403  --- возникает при push
+
+Поменять на ssh ??
+
+_____________________________________________________________________________________
+
+Add collaborators to this repository
+test_repo
+Переходим на верхную вкладку Settings
+
+Затем на левую Collaborators
+Add People  MikeVK2806
+И все равно проблемы
+
+___________________________________________________________________________
+
+git push -u origin main
+___________________________________________________________________________
+
+Попробовать еще раз
+
+Входим MikeVK1964
+mktest_repo --- создаем 
+
